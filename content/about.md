@@ -1,9 +1,8 @@
 ---
 title: "About"
 date: 2017-10-14T20:19:58-04:00
-
+draft: false
 ---
-
 # About
 
 >Nothing will work unless you do – Maya Angelou

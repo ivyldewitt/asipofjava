@@ -1,6 +1,7 @@
 ---
 title: "Jumping Into Java"
 date: 2017-10-14T20:14:22-04:00
+draft: false
 ---
 
 Ten days from now, it'll mark my sixth month anniversary at my new job, my first of what will hopefully be many steps in a career in software engineering.
