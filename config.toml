@@ -1,4 +1,4 @@
-baseURL = "http://zentechnista.github.io/asipofjava"
+baseURL = "http://localhost:1313"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "A Sip of Java"
